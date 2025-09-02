@@ -11,7 +11,7 @@ Currently:
 
 Checkout my work, experiments, and hacks — and feel free to connect!
 
-🔗 [aisuraksha.ai](https://www.aisuraksha.ai) | [LinkedIn](https://www.linkedin.com/in/virat-chourasia-5b3a9265)
+🔗 [aisuraksha.ai](https://www.aisuraksha.ai) | [Medium](https://medium.com/@viratc)
 
 
 <!--
