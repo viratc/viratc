@@ -2,7 +2,7 @@
 
 Tech founder | Backend & Distributed Systems Engineer
 
-I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first insurance assistant that helps families understand coverage, prevent fraud, and navigate claims — part of India’s next-gen insurance infrastructure. I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
+I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first insurance assistant that helps families understand coverage, prevent fraud, and navigate claims - part of India’s next-gen insurance infrastructure. I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
 
 Currently:
 - Playing with RAG (Retrieval-Augmented Generation) for insurance-specific Q&A
