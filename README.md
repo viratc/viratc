@@ -14,7 +14,6 @@ I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first
 Built a Lambo-style bot using wiper motors, scrap steel, and a 12V car battery. Reached semi-finals.
 <p float="left">
   <img src="assets/Robowars1.jpg" width="300"/>
-  <img src="assets/Robowars2.jpg" width="300"/>
 </p>
 
 #### 🧭 Vision-Guided Bots at NIT-K & IIT-B
