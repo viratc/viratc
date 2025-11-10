@@ -12,15 +12,24 @@ I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first
 ### Robotics & Embedded systems (Throwback projects)
 #### 🔩 Robowars Finalist (2012)
 Built a Lambo-style bot using wiper motors, scrap steel, and a 12V car battery. Reached semi-finals.
-![Robowars 1](assets/Robowars1.jpg)
+<p float="left">
+  <img src="assets/Robowars1.jpg" width="300"/>
+  <img src="assets/Robowars2.jpg" width="300"/>
+</p>
 
 #### 🧭 Vision-Guided Bots at NIT-K & IIT-B
 Team lead for camera-based bots using microcontrollers and CC2500 modules.
-![NIT-K Bot](assets/RobotNITK.jpg) ![IIT-B Bot](assets/Techfest2013IITB.jpg)
+<p float="left">
+  <img src="assets/RobotNITK.jpg" width="300"/>
+  <img src="assets/Techfest2013IITB.jpg" width="300"/>
+</p>
 
 #### 🐜 All-Terrain Hexapod Robot (Final Year)
 Programmed gait and terrain adaptation for a six-legged robot.
-![Hexapod 1](assets/Hexa1.jpg) ![Hexapod 2](assets/Hexa2.jpg)
+<p float="left">
+  <img src="assets/Hexa1.jpg" width="300"/>
+  <img src="assets/Hexa2.jpg" width="300"/>
+</p>
 
 ### 📄 More
 - [aisuraksha.in](https://www.aisuraksha.in) – Landing Page  
