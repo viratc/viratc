@@ -10,9 +10,17 @@ I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first
 - Experimenting with building small language models (SLMs) for domain-specific reasoning
 
 ### Robotics & Embedded systems (Throwback projects)
-- **Robowars Finalist (2012)** — Built a Lambo-style bot from wiper motors, scrapped steel, and a 12V lithium car battery. Reached semi-finals at college Robowars. [📷 Image](https://yourlink.com)  
-- **Vision-Guided Bots @ NIT-K & IIT-B** — Team lead for autonomous bots using overhead camera + microcontroller + CC2500 transmission. Picked and placed blocks in Polaroid event at IIT-B Techfest 2013. [📷 Images](https://yourlink.com)  
-- **Hexapod All-Terrain Robot (Final Year Project)** — Built terrain-adaptive mobility logic for a six-legged robot. Programmed core movement and gait logic. [📷 Image](https://yourlink.com)
+#### 🔩 Robowars Finalist (2012)
+Built a Lambo-style bot using wiper motors, scrap steel, and a 12V car battery. Reached semi-finals.
+![Robowars 1](assets/Robowars1.jpg)
+
+#### 🧭 Vision-Guided Bots at NIT-K & IIT-B
+Team lead for camera-based bots using microcontrollers and CC2500 modules.
+![NIT-K Bot](assets/RobotNITK.jpg) ![IIT-B Bot](assets/Techfest2013IITB.jpg)
+
+#### 🐜 All-Terrain Hexapod Robot (Final Year)
+Programmed gait and terrain adaptation for a six-legged robot.
+![Hexapod 1](assets/Hexa1.jpg) ![Hexapod 2](assets/Hexa2.jpg)
 
 ### 📄 More
 - [aisuraksha.in](https://www.aisuraksha.in) – Landing Page  
