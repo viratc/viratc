@@ -1,8 +1,10 @@
 ### 👋 Hi, I'm Virat Chourasia
 
-Tech founder | Backend & Distributed Systems Engineer | Robotics tinkerer
+Founder | Backend & Distributed Systems Engineer | Robotics tinkerer
 
-I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), an AI-first insurance assistant that helps families understand coverage, prevent fraud, and navigate claims - part of India’s next-gen insurance infrastructure. I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
+I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), a claims intelligence and compliance automation platform for health insurance. AISuraksha helps claims teams make faster, defensible decisions by structuring claim documents, validating medical necessity, and embedding fraud detection & regulatory compliance directly into claims workflows. 
+
+I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
 
 ### Currently building:
 - Playing with RAG (Retrieval-Augmented Generation) for insurance-specific Q&A
