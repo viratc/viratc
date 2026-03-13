@@ -2,7 +2,7 @@
 
 Founder | Backend & Distributed Systems Engineer | Robotics tinkerer
 
-Building **AISuraksha — the decision layer for insurance claims**, where we design clinical reasoning, document intelligence, and audit-defensible decision pipelines for insurers.
+Building **AISuraksha - the decision layer for insurance claims**, where we design clinical reasoning, document intelligence, and audit-defensible decision pipelines for insurers.
 
 I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
 
