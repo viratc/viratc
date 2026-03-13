@@ -2,7 +2,7 @@
 
 Founder | Backend & Distributed Systems Engineer | Robotics tinkerer
 
-I’m the Chief Tinkerer at [AISuraksha](https://www.aisuraksha.in), a claims intelligence and compliance automation platform for health insurance. AISuraksha helps claims teams make faster, defensible decisions by structuring claim documents, validating medical necessity, and embedding fraud detection & regulatory compliance directly into claims workflows. 
+Building **AISuraksha — the decision layer for insurance claims**, where we design clinical reasoning, document intelligence, and audit-defensible decision pipelines for insurers.
 
 I’ve previously built real-time systems, semantic search engines, cloud-native microservices, and even a Braille hand glove for the visually impaired.
 
